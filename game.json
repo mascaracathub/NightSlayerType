@@ -1,0 +1,9 @@
+{
+  "games": [
+    { "name": "Fisch", "id": 121864768012064, "link": "https://raw.githubusercontent.com/mascaracathub/Test-Script/refs/heads/main/Fish-Main.lua.txt" },
+    { "name": "Arsenal", "id": 286090429, "link": "https://pastefy.app/dJan0LcX/raw" },
+    { "name": "Blox Fruit", "id": 2753915549, "link": "https://pastefy.app/xFSeeOJ8/raw" },
+    { "name": "Impossible Squid Game Glass Bridge 2", "id": 16993432698, "link": "https://raw.githubusercontent.com/mascaracathub/Test-Script/refs/heads/main/Protected_2814004259330302.lua.txt" },
+    { "name": "Silent Assassin", "id": 103854444055060, "link": "https://pastefy.app/fd770jlN/raw" }
+  ]
+}
